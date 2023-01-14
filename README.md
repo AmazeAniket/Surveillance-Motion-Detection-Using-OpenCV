@@ -47,7 +47,7 @@ If the intensity difference for a particular pixel is more than 30(in my code) t
 4. Color Frame:
 In this frame we can see the color images in color frame along with green contour(frame) around the moving objects.
 
-Note : To esacpe from all this frames, press 'Q'.
+Note : To escape from all this frames, press 'Q'.
 ## Time of Motion
 The Times file will be stored in the folder where our code file is stored. This file will be in csv extension. In this file the start time of motion and the end time of motion will be recorded.
 ## Plotting of Time Interval Graph
